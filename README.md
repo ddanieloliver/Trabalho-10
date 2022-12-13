@@ -3,4 +3,4 @@ Esse trabalho possui o objetivo de ler inteiros digitados pelo usuário e depois
 
 Foi criado para rodar no linux Ubuntu 20.04 e gcc 9.4;
 Para compilar você deve abrir a pasta no seu terminal e digitar o seguinte comando: gcc TR3_535840.c-o teste;
-Em seguida, para executar você vai digitar ./teste;
+Em seguida, ainda no terminal, para executar você vai digitar ./teste;
