@@ -1,5 +1,5 @@
 # Trabalho-10
-Esse trabalho possui o objetivo de ler inteiros digitados pelo usuário e depois ordená-los assim que o desejar. Fara tal, foi utilizada lógica de opeação bit a bit;
+Esse trabalho possui o objetivo de ler inteiros digitados pelo usuário e logo depois ordená-los assim que o desejar. Para tal, foi utilizada da lógica de opeação bit a bit;
 
 Foi criado para rodar no linux Ubuntu 20.04 e gcc 9.4;
 
